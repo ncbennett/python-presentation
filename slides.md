@@ -2,8 +2,7 @@
 theme: seriph
 title: Python
 class: text-center
-transition: slide-left
-duration: 10min
+transition: fade
 ---
 
 # Python
