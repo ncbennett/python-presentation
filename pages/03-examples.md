@@ -1,5 +1,7 @@
 # Python Example: Rock, Paper, Scissors
 
+<div></div>
+
 We'll build a simple game that demonstrates some basic Python features like:
 
 - Dictionaries
