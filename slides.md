@@ -5,6 +5,8 @@ class: text-center
 transition: fade
 ---
 
+<logos-python class="text-6xl mb-4" />
+
 # Python
 
 ---

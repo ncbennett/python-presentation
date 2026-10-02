@@ -7,6 +7,7 @@
     "dev": "slidev --open"
   },
   "dependencies": {
+    "@iconify-json/logos": "^1.2.15",
     "@slidev/cli": "^53.0.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
