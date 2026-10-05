@@ -18,7 +18,7 @@ We'll build a simple game that demonstrates some basic Python features like:
 ```python {lines:true,startLine:1}
 import random
 
-MOVES = {
+moves = {
     "r": "rock",
     "p": "paper",
     "s": "scissors",
@@ -35,7 +35,7 @@ def get_move():
     while True:
         try:
             choice = input("Choose rock (r), paper (p), or scissors (s): ").lower()
-            return MOVES[choice]
+            return moves[choice]
         except KeyError:
             print("Invalid choice. Please enter r, p, or s.")
 ```
@@ -56,5 +56,17 @@ def determine_winner(player, computer):
        ]:
            return "player"
        else:
-           return "computer
+           return "computer"
+```
+
+---
+
+# Rock, Paper, Scissors
+
+### Run the Functions
+
+```python {lines:true,startLine:25}
+player_move = get_move()
+computer_move = scissors
+determine_winner(player_move, computer_move)
 ```

@@ -13,3 +13,4 @@ routeAlias: references
 7. Yergin, D. (2025, December 18). *The pros and cons of Python programming language*. Redwerk. https://redwerk.com/blog/pros-and-cons-of-python/
 8. *9. classes*. (n.d.). Python Documentation. https://docs.python.org/3/tutorial/classes.html
 9. *Python decorators*. (n.d.). W3Schools. https://www.w3schools.com/python/python_decorators.asp
+https://dev.to/amigosmaker/what-is-the-largest-site-created-using-flask-3214

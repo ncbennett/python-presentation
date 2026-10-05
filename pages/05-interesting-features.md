@@ -2,8 +2,8 @@
 
 <div v-click>
 
-### Python Generators
-Python Generators are a particularly interesting feature of the language. While they are written like normal functions, they use the yield statement to return data. This small change makes a large difference in performance, however, as generators allow you to load chunks of a file in at a time. <sup><Link to="references">9.</Link></sup>
+### Python Generators 
+<sup><Link to="references">9.</Link></sup>
 
 ```python {lines:true}
 def reverse(data):
@@ -13,12 +13,18 @@ def reverse(data):
 
 </div>
 
+<!--
+- Python Generators are a particularly interesting feature of the language. 
+- While they are written like normal functions, they use the yield statement to return data. 
+- This small change makes a large difference in performance, however, as generators allow you to load chunks of a file in at a time.
+-->
+
 ---
 
 # Interesting Features of Python
 
 ### Python Decorators
-Python Decorators are another amazing feature of Python. They let you add more behavior to a function without modifying the code by taking in a function as input and returning a new function. <sup><Link to="references">10.</Link></sup>
+<sup><Link to="references">10.</Link></sup>
 
 ```python {lines:true}
 def changecase(func):
@@ -32,6 +38,11 @@ def myfunction():
 
 print(myfunction())
 ```
+
+<!--
+- Python Decorators are another amazing feature of Python. 
+- They let you add more behavior to a function without modifying the code by taking in a function as input and returning a new function.
+-->
 
 ---
 

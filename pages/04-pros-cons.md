@@ -3,17 +3,29 @@
 ### Pros
 <v-clicks>
 
-- A huge number of libraries and modules to easily add functionality making it versatile.
-- Dynamic typing makes it flexible and easy to write (can be problematic, but it has type hints if you need to be more specific. Overall, I think this is a pro not a con).
-- Supports object-oriented, procedural, and functional coding paradigms.
-- Indentation defined code blocks + english-like keywords -> readable.
+- Large ecosystem
+- Very readable
+- Multi-paradigm programming language
+- High-performance libraries
 
 </v-clicks>
 
 ### Cons
 <v-clicks>
 
-- Python is an interpreted language, meaning the Python compiler converts your code to an intermediate format called bytecode at runtime which an external program called an interpreter converts directly to machine code, so it's typically slower than compiled languages. Most of its libraries are written in C/C++, however, meaning it's not always slower than compiled languages for all tasks.
-- Python has high memory consumption and a resource intensive garbage collector. <sup><Link to="references">7., 8.</Link></sup>
+- Interpreted language
+- High-memory usage <sup><Link to="references">7., 8.</Link></sup>
 
 </v-clicks>
+
+<!-- 
+Pros:
+- Python has a large standard library, and Python's package manager, pip, allows you to install packages from huge third-party registries like PyPI.
+- Python is very readable because of its English-like keywords, its dynamic-typing, and its indentation defined code blocks.
+- Python supports objected-oriented, functional, and procedural programming.
+- Many of its libraries are written in C/C++, however, so many Python applications are used for high-performance computing applications.
+
+Cons:
+- Python is an interpreted language, meaning the Python compiler converts your code to an intermediate format called bytecode at runtime. An external program, an interpreter, converts the bytecode to machine code line-by-line. This makes it slower than most compiled languages.
+- Python's garbage collector is resource intensive and applications written in Python tend to use a large amount of memory.
+-->
