@@ -14,3 +14,5 @@ routeAlias: references
 8. *9. classes*. (n.d.). Python Documentation. https://docs.python.org/3/tutorial/classes.html
 9. *Python decorators*. (n.d.). W3Schools. https://www.w3schools.com/python/python_decorators.asp
 https://dev.to/amigosmaker/what-is-the-largest-site-created-using-flask-3214
+https://pypi.org/
+https://tuxcare.com/blog/python-security-issues/
