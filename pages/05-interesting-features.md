@@ -1,13 +1,8 @@
 # Interesting Features of Python
 
-<div v-click>
-
-
-# Interesting Features of Python
-
 ### Generators
 
-```python {none|1-3|5-6}{lines:true}
+```python {none|1-4|6-7}{lines:true}
 def countdown(n):
     while n > 0:
         yield n

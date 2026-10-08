@@ -1,7 +1,3 @@
----
-routeAlias: references
----
-
 # References
 
 1. *Foreword for “Programming Python” (1st ed.)*. (1996). Python.org. https://www.python.org/doc/essays/foreword/
