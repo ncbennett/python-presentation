@@ -1,11 +1,12 @@
+
 # Python Pros & Cons
 
 ### Pros
 <v-clicks>
 
 - Large ecosystem
-- Very readable
-- Multi-paradigm programming language
+- Highly readable
+- Multi-paradigm programming
 - High-performance libraries
 
 </v-clicks>
@@ -13,19 +14,19 @@
 ### Cons
 <v-clicks>
 
-- Interpreted language
-- High-memory usage
+- Slower execution for pure Python code
+- Higher memory overhead
 
 </v-clicks>
 
-<!-- 
+<!--
 Pros:
-- Python has a large standard library, and Python's package manager, pip, allows you to install packages from huge third-party registries like PyPI.
-- Python is very readable because of its English-like keywords, its dynamic-typing, and its indentation defined code blocks.
-- Python supports objected-oriented, functional, and procedural programming.
-- Many of its libraries are written in C/C++, however, so many Python applications are used for high-performance computing applications.
+- Python has an extensive standard library, and pip can install third-party packages from PyPI.
+- Python is readable because of its simple syntax, expressive keywords, and indentation-based code blocks.
+- Python supports object-oriented, functional, and procedural programming.
+- Many scientific computing libraries use optimized C, C++, or Fortran code, allowing Python to support computationally intensive applications.
 
 Cons:
-- Python is an interpreted language, meaning the Python compiler converts your code to an intermediate format called bytecode at runtime. An external program, an interpreter, converts the bytecode to machine code line-by-line. This makes it slower than most compiled languages.
-- Python's garbage collector is resource intensive and applications written in Python tend to use a large amount of memory.
+- The Python compiler compiles source code into bytecode, which its interpreter executes. This introduces runtime overhead compared to executing native machine code directly. As a result, pure Python code is often slower than equivalent compiled C or C++ code.
+- Python objects contain additional metadata, including type information and reference counts. Combined with dynamic memory management, this can increase memory consumption compared to lower-level languages.
 -->
