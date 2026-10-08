@@ -14,7 +14,7 @@
 <v-clicks>
 
 - Interpreted language
-- High-memory usage <sup><Link to="references">7., 8.</Link></sup>
+- High-memory usage
 
 </v-clicks>
 

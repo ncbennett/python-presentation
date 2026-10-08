@@ -19,13 +19,13 @@
 - eval() and exec()
 - Unsafe:
 
-```python {lines:true,startLine:1}
+```python {lines:true}
 
 ```
 
 - Safe:
 
-```python {lines:true,startLine:1}
+```python {lines:true}
 
 ```
 

@@ -2,7 +2,7 @@
 
 <div></div>
 
-Python is a general purpose programming language and extremely flexible.<sup><Link to="references">5.</Link></sup>
+Python is a general purpose programming language and extremely flexible.
 
 Some common uses include:
 

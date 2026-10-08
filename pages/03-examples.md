@@ -15,7 +15,7 @@ We'll build a simple game that demonstrates some basic Python features like:
 # Rock, Paper, Scissors
 
 ### Setup
-```python {lines:true,startLine:1}
+```python {lines:true}
 import random
 
 moves = {

@@ -3,7 +3,7 @@
 <div v-click>
 
 ### 1989 - The Beginning
-- Hobby project. <sup><Link to="references">1.</Link></sup>
+- Hobby project.
 
 </div>
 
@@ -12,21 +12,21 @@
 ### 1994 - Python 1.0
 - Functions
 - Modules
-- Exceptions <sup><Link to="references">2.</Link></sup>
+- Exceptions
 </div>
 
 <div v-click>
 
 ### 2008 - Python 3.0
-- NOT backwards compatible. <sup><Link to="references">3.</Link></sup>
+- NOT backwards compatible.
 
 </div>
 
 <div v-click>
 
 ### Now
-- Popular
-- Many packages <sup><Link to="references">4.</Link></sup>
+- Most popular language worldwide.
+- 900,000+ packages.
 
 </div>
 

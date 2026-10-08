@@ -3,7 +3,6 @@
 <div v-click>
 
 ### Python Generators 
-<sup><Link to="references">9.</Link></sup>
 
 ```python {lines:true}
 def reverse(data):
@@ -24,7 +23,6 @@ def reverse(data):
 # Interesting Features of Python
 
 ### Python Decorators
-<sup><Link to="references">10.</Link></sup>
 
 ```python {lines:true}
 def changecase(func):
@@ -48,5 +46,11 @@ print(myfunction())
 
 # Interesting Features of Python
 
-### Python Dictionaries
-Python dictionaries are a great example of a language integrating an easy to use and highly flexible hash table as a core data type.
+### Python Dictionary Comprehension
+
+```python {lines:true}
+# Some code about dictionaries.
+```
+<!--
+- Python dictionaries are a great example of a language integrating an easy to use and highly flexible hash table as a core data type.
+-->
