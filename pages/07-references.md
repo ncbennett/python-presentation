@@ -14,6 +14,6 @@
 
 8. *9. classes*. (n.d.). Python Documentation. https://docs.python.org/3/tutorial/classes.html
 9. *Python decorators*. (n.d.). W3Schools. https://www.w3schools.com/python/python_decorators.asp
-10. amigos-maker. (2019, November 3). *what is the largest site created using Flask. Dev. https://dev.to/amigosmaker/what-is-the-largest-site-created-using-flask-3214
+10. amigos-maker. (2019, November 3). *what is the largest site created using Flask.* Dev. https://dev.to/amigosmaker/what-is-the-largest-site-created-using-flask-3214
 11. *Python Package Index*.(n.d.). Python Software Foundation. https://pypi.org/
 12. Timalsina, R. (2026, August 4). *Python Security Issues: Common Risks & How to Mitigate Them*. https://tuxcare.com/blog/python-security-issues/
