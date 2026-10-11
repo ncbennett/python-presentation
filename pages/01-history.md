@@ -33,7 +33,7 @@
 
 <!--
 - Guido van Rossum started Python as a hobby project over Christmas break in 1989.
-- Version 1.0 was released in January 1994. It included more features like functions, modules, and exceptions.
+- Version 1.0 was released in January 1994. It added more features like exec statements, __name__, and the map function.
 - Python version 3.0 was released in 2008. It was a large overhaul of the language, and was not backwards compatible, requiring significant migration from Python 2. Many companies continued to use Python 2 all the way up to when support was dropped for it in 2020.
-- Python has been the most popular programming language for the past 5 years. The Python Package Index has over 909,000 packages and nearly 10 million releases.
+- Python has been the most used programming language for the past 5 years according to the Tiobe Index. The Python Package Index also has over 909,000 packages and nearly 10 million releases.
 -->
